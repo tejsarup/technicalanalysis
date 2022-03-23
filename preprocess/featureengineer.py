@@ -1,5 +1,7 @@
 from preprocess.yahoodownloader import YahooDownloader
 from stockstats import StockDataFrame as Sdf
+import numpy as np
+import pandas as pd
 
 class FeatureEngineer:
     """Provides methods for preprocessing the stock price data
