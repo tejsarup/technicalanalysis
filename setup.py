@@ -15,7 +15,7 @@ except FileNotFoundError:
     REQUIRES = list()
 
 setup(
-    name="tsta",
+    name="ta",
     version="0.0.1",
     include_package_data=True,
     #author="Hongyang Yang, Xiaoyang Liu",
